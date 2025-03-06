@@ -19,6 +19,9 @@
 
 ## **Overall Recommendations:**
 **Seasonality Analysis:** Conduct a deeper dive into the seasonal patterns observed in sales and profit data to optimize inventory management and marketing campaigns.
+
 **Category and Sub-Category Optimization:** Focus on maximizing the profitability of top-performing categories and sub-categories while addressing underperformance in others.
+
 **Customer Segmentation Strategy:** Develop targeted marketing and sales strategies for each customer segment to improve conversion rates and profitability.
+
 **Profit Margin Analysis:** Investigate the profit margins for sub-categories, particularly within the Home Office segment, to determine areas for improvement and strategize pricing and product mix
