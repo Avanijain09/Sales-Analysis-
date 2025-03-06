@@ -1,4 +1,6 @@
 **Title : Sales-Analysis of ECOMMERCE Business**
+
+
 Problem statemnets with Analysis
 
 Sales Trend: Monthly sales show variations throughout the year, indicating potential seasonality. Further investigation into specific months with peak and low sales would be beneficial.
